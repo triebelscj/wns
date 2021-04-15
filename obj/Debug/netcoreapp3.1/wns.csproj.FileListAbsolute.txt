@@ -1,0 +1,12 @@
+/Users/cjtriebels/Desktop/c#/wns/bin/Debug/netcoreapp3.1/wns.deps.json
+/Users/cjtriebels/Desktop/c#/wns/bin/Debug/netcoreapp3.1/wns.runtimeconfig.json
+/Users/cjtriebels/Desktop/c#/wns/bin/Debug/netcoreapp3.1/wns.runtimeconfig.dev.json
+/Users/cjtriebels/Desktop/c#/wns/bin/Debug/netcoreapp3.1/wns.dll
+/Users/cjtriebels/Desktop/c#/wns/bin/Debug/netcoreapp3.1/wns.pdb
+/Users/cjtriebels/Desktop/c#/wns/obj/Debug/netcoreapp3.1/wns.csprojAssemblyReference.cache
+/Users/cjtriebels/Desktop/c#/wns/obj/Debug/netcoreapp3.1/wns.AssemblyInfoInputs.cache
+/Users/cjtriebels/Desktop/c#/wns/obj/Debug/netcoreapp3.1/wns.AssemblyInfo.cs
+/Users/cjtriebels/Desktop/c#/wns/obj/Debug/netcoreapp3.1/wns.csproj.CoreCompileInputs.cache
+/Users/cjtriebels/Desktop/c#/wns/obj/Debug/netcoreapp3.1/wns.dll
+/Users/cjtriebels/Desktop/c#/wns/obj/Debug/netcoreapp3.1/wns.pdb
+/Users/cjtriebels/Desktop/c#/wns/obj/Debug/netcoreapp3.1/wns.genruntimeconfig.cache
